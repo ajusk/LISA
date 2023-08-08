@@ -40,7 +40,7 @@ module.exports = {
 
   FORWARD: process.env.FORWARD || '𝐋𝐈𝐒𝐀𝐌𝐖𝐎𝐋 𝐁𝐎𝐓;HM;Copyright by SK;https://i.imgur.com/gHzhQsN.jpeg',
   
-  BOT_INFO: process.env.BOT_INFO || '𝐋𝐈𝐒𝐀𝐌𝐖𝐎𝐋 𝐁𝐎𝐓;HM;Copyright by SK;https://i.imgur.com/T0L1AYt.jpeg',
+  BOT_INFO: process.env.BOT_INFO || '𝐋𝐈𝐒𝐀𝐌𝐖𝐎𝐋 𝐁𝐎𝐓;HM;Copyright by SK;https://i.imgur.com/T0L1AYt.jpeg,https://i.imgur.com/gHzhQsN.jpeg,https://i.imgur.com/nEfrVqv.jpeg,https://i.imgur.com/ZkLkGkd.jpeg,https://i.imgur.com/AfkeGXd.jpeg,https://i.imgur.com/Fm6VeSY.jpeg',
 
   WELCOME_MSG: process.env.WELCOME_MSG || "Hi @user Welcome to @gname",
 
