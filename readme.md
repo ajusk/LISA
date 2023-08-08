@@ -35,7 +35,7 @@
 <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 ><b><s1>3.ɴᴏᴡ ᴅᴇᴘʟᴏʏ ᴏɴ ᴅᴇᴘʟᴏʏ </b></s1>
-<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Afx-Abu/Afx-Abu&template=https://github.com/Afx-Abu/Abu-MD.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://dashboard.heroku.com/new?button-url=https://github.com/Afx-Abu/Afx-Abu&template=https://github.com/ajusk/LISA.git' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 [![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/KDt0eEkGCho7tLbfcmMltB) 
 ---------
