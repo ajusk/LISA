@@ -15,7 +15,8 @@
 
 > <b><s1> 4. ɴᴏᴡ ᴅᴇᴘʟᴏʏ</b></s1>
     <br>
-<a href='https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/afx-abu/beta-abu:latest&env[ANTI_LINK]&env[ANTILINK_ACTION]=false&env[AUDIO_DATA]=Abu MD;Abu;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg&env[BOT_INFO]=𝐀𝐁𝐔 𝐌𝐃 𝐁𝐎𝐓;~Jasil;Copyright by LISA;917592998457;™𝐋𝐈𝐒𝐀;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg&env[GOODBYE_MSG]=bye bye ✅&env[HANDLERS]=.,&env[MODE]=public&env[RMBG_KEY]&env[SESSION_ID]&env[STICKER_DATA]=Abu💗&env[SUDO]=917592998457&env[KOYEB_NAME]=𝐋𝐈𝐒𝐀' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
+<a href='https://app.koyeb.com/apps/deploy?type=docker&image=quay.io/afx-abu/beta-abu:latest&env[ANTI_LINK]&env[ANTILINK_ACTION]=false&env[AUDIO_DATA]=𝐋𝐈𝐒𝐀𝐌𝐖𝐎𝐋;♡ ㅤ    ❍ㅤ     ⎙ㅤ     ⌲ 
+ˡᶦᵏᵉ  ᶜᵒᵐᵐᵉⁿᵗ    ˢᵃᵛᵉ     ˢʰᵃʳᵉ```;https://2.img-dpreview.com/files/p/E~C1000x0S4000x4000T1200x1200~articles/3925134721/0266554465.jpeg&env[BOT_INFO]=𝐋𝐈𝐒𝐀 𝐌𝐖𝐎𝐋;SK x HM;Copyright by LISA;917592998457;™𝐋𝐈𝐒𝐀;https://i.ibb.co/nc4MKWb/ae8d07d7943e.jpg&env[GOODBYE_MSG]=bye bye ✅&env[HANDLERS]=.,&env[MODE]=public&env[RMBG_KEY]&env[LISA SESSION_ID]&env[STICKER_DATA]=𝐋𝐈𝐒𝐀𝐌𝐖𝐎𝐋🤍&env[SUDO]=917592998457&env[KOYEB_NAME]=𝐋𝐈𝐒𝐀' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
 ***
 
 <h1 align="center"> 𝐋𝐈𝐒𝐀 PLUGINS
