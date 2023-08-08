@@ -49,6 +49,7 @@
 
 ## ⚠ Warning ⚠
 
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
 ```
 .By using kick, add, promote, demote Commands, Your WhatsApp account may be banned.
 Abu bot or we are not responsible for your account, 
